@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.form-group .error {
+  color: rgb(187, 35, 35);
+}
+
+input {
+  padding: 5px;
+  border: 1px solid #1e293b;
+  border-radius: 3px;
+}
+input:focus {
+  outline: none;
+}
+
+button {
+  border: none;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+button:hover {
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #cbd5e1;
+}
+.btn-primary:hover {
+  background-color: #94a3b8;
+  transition: 200ms;
+}/*# sourceMappingURL=global.css.map */

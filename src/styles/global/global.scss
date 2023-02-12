@@ -1,0 +1,41 @@
+@import "../variables";
+*{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    gap: $formGap;
+    .error{
+        color: rgb(187, 35, 35);
+    }
+}
+
+input{
+    padding: $formGap;
+    border: 1px solid $slate-800;
+    border-radius: 3px;
+    &:focus{
+        outline: none;
+    }
+  
+}
+button{
+    border: none;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 16px;
+    &:hover{
+        cursor: pointer;
+    }
+}
+.btn-primary{
+    background-color: $slate-300;
+    &:hover{
+        background-color: $slate-400;
+        transition: 200ms;
+    }
+}

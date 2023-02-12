@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "email": "mark@gmail.com",
+      "password": "$2a$10$QL.lbf8MkWwqAJBWZm1NbexeT8l4He2eYgpecMkS.3at4pSV0z9Ca",
+      "id": 1
+    },
+    {
+      "email": "marklumba1@gmail.com",
+      "password": "$2a$10$8pNjC8/KyU7TZeALU1ixUuNGZie6/vLp06wvImn6qSMFqk67PWQta",
+      "id": 2
+    },
+    {
+      "email": "marklumba123121@gmail.com",
+      "password": "$2a$10$sYdZNp5AMgLvCTLDtzXzlOCKYY/p2JOdNVcpK.f0P/UWEep99rZrO",
+      "id": 3
+    },
+    {
+      "email": "marklumba123121@gmail.com",
+      "password": "$2a$10$C5dA5dz9L/heDDjWllThMeIpsC6mjGhlBVedeRXWy2NJsPnB2nZzO",
+      "id": 4
+    },
+    {
+      "email": "marklumba1222@gmail.com",
+      "password": "$2a$10$N1Gbo3U.xkPGm3nnGbhuhOfyNeOF1rbn.93P2ScUH9mXyFAK7i85K",
+      "id": 5
+    },
+    {
+      "email": "marklumba1222123@gmail.com",
+      "password": "$2a$10$2ZWDRtwR.ermrSzQeX3B5.NzJnprKgOOWLyD/8hF3Nkth4UPswlC.",
+      "id": 6
+    },
+    {
+      "email": "marklumba12@gmail.com",
+      "password": "$2a$10$SxMZQFOwwTRwrhfqzWPkP.yB4BaA0XuO6rsv38rCMwQh2o2Lk/Q0u",
+      "id": 7
+    },
+    {
+      "email": "marklumba123@gmail.com",
+      "password": "$2a$10$2JmynrPE.OZ8bE3LmWbY4eDRB4Ub3yakkbxehYeTGekqChHV2DLey",
+      "id": 8
+    },
+    {
+      "email": "marklumba1235@gmail.com",
+      "password": "$2a$10$WVHY3tf8mvXZjQiem2jvh.9BU3ZQZNYs5O5xrnYTUIzllfEcHcXmu",
+      "id": 9
+    },
+    {
+      "email": "marklumba1123213@gmail.com",
+      "password": "$2a$10$Y5WYeOUtl5qsETRdNYzRauoqI4Nwk.7gl9Y6mEtPP2vL/07fKk/ue",
+      "id": 10
+    },
+    {
+      "email": "marklumba112321312@gmail.com",
+      "password": "$2a$10$GpY6sB0pAnWxTl6mo0EuwOosyNkmJqDaKrOLqnehrMICL5Yatk7Iy",
+      "id": 11
+    },
+    {
+      "email": "marklumba0@gmail.com",
+      "password": "$2a$10$Zy0yrkpyN0tZRYE.itBcwOpAV63BMJs./VQ9JQS3ExX18CRO6AChO",
+      "id": 12
+    },
+    {
+      "email": "mok@gmail.com",
+      "password": "$2a$10$/YdRnoGhUqRIGMbWH80pZOW2PTIwIdR7NtnyZ.t7/EoBd2hn0rpky",
+      "id": 13
+    },
+    {
+      "email": "marklumba1123@gmail.com",
+      "password": "$2a$10$WrvCAzROMiqYmMGXJTfU/Oa3.7.CwexUwiiUb.lb5vvIc5nF.z8tu",
+      "id": 14
+    },
+    {
+      "email": "asdasdasdsad@gmail.com",
+      "password": "$2a$10$QWHlBXhiwepzm9xvWAWz1.9lKa.NxYtOQtSTmftUq4LGKecjk1kn2",
+      "id": 15
+    },
+    {
+      "email": "123213@gmail.com",
+      "password": "$2a$10$nl/SgO6uBhSEGGXgsQ4sBe28SGnZgNEmYe0qvlc8/WYMmIJTAGfbO",
+      "id": 16
+    },
+    {
+      "email": "ml123@gmail.com",
+      "password": "$2a$10$Xg2eJNuLcADFiByh0xfiKOzy2OrXWzBOzWLGumapYRs7Ft8rZ7bLC",
+      "id": 17
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "userId": 1,
+      "title": "Hotdog",
+      "body": "Hotdog body",
+      "id": 2
+    }
+  ]
+}

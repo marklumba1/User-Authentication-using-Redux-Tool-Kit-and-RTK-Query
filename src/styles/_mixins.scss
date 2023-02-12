@@ -1,0 +1,12 @@
+@mixin container-style{
+    border: 2px solid red;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+@mixin links{
+    &:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,39 @@
+.home-container {
+  border: 2px solid red;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-container .home-inner {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 700px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px black;
+  overflow: hidden;
+}
+.home-container .home-inner p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.home-container .home-inner .img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+.home-container .home-inner .img-container .pic {
+  width: 100%;
+  height: auto;
+}
+.home-container .home-inner .home-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: #f1f5f9;
+}/*# sourceMappingURL=home.css.map */
